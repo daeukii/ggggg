@@ -1,0 +1,8 @@
+.pic {
+    display: block;
+    color: darkgray;
+    width: 1950px;
+    height: 800px;
+    z-index: 10;
+    
+}
